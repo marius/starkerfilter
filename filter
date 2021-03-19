@@ -1,0 +1,105 @@
+de.wikipedia.org##.banner
+
+www.golem.de###gservices
+www.golem.de##.supplementary
+www.golem.de###recently
+www.golem.de##footer
+www.golem.de##.topics
+www.golem.de##.specialletters
+www.golem.de##.icon-video
+www.golem.de##.icon-exclamation
+www.golem.de##.tags
+www.golem.de###header
+www.golem.de###breadcrumbs
+www.golem.de###comments
+www.golem.de##.activity
+www.golem.de##.promos
+www.golem.de##div.g6.g:nth-of-type(3)
+www.golem.de##.social-tools--inverted.social-tools
+
+stackoverflow.com###noscript-warning
+serverfault.com###noscript-warning
+security.stackexchange.com###noscript-warning
+askubuntu.com###noscript-warning
+
+www.spiegel.de##.teaser:has(.spplus)
+www.spiegel.de##.teaser:has(.bento)
+www.spiegel.de###header
+www.spiegel.de##.module-box.plus
+www.spiegel.de##.asset-box:has(.spplus-logo)
+www.spiegel.de##.pano_xxl.column-small
+www.spiegel.de###footer
+www.spiegel.de###content-main > div.column-both:nth-of-type(2)
+www.spiegel.de###content-main > div.clearfix:nth-of-type(3)
+www.spiegel.de##div.column-both:nth-of-type(4)
+www.spiegel.de###spCentertickerboxKT
+www.spiegel.de##div[data-area=news-section] article:has(span[data-contains-flags=sponpaid])
+www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=sponpaid])
+www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=hbmpaid])
+www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=mmopaid])
+www.spiegel.de##div[data-block-el=articleTeaser] article:has-text(/anzeige/i)
+www.spiegel.de##section[data-area="block>sportdaten"]
+www.spiegel.de##div.block:has(span[data-contains-flags=sponpaid])
+www.spiegel.de##section:has-text(/top bei spiegel+/i)
+www.spiegel.de##div[data-area=news-section] article:has(span[data-contains-flags=Spplus-paid])
+www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=Spplus-paid])
+www.spiegel.de##div.block:has(span[data-contains-flags=sponpaid])
+www.spiegel.de##div.block:has(span[data-contains-flags=Spplus-paid])
+
+www.medium.com##.overlay
+
+www.reddit.com###block-homepage
+
+suchen.mobile.de###financing-offer-fallback-form-vip-box
+suchen.mobile.de##aside > article
+suchen.mobile.de###financing-offer-fallback-form-vip-end-of-page
+suchen.mobile.de##footer
+suchen.mobile.de##article:has-text(/in deiner region/i)
+suchen.mobile.de##h3:has-text(/inserate/i)
+suchen.mobile.de##h3:has-text(/inserate/i) + div
+suchen.mobile.de##div#motorTalkPromoBox
+suchen.mobile.de##div#ratgeberAutokauf
+suchen.mobile.de##div.force-medium
+suchen.mobile.de##div.similarAdsVip
+suchen.mobile.de##div.ebaykBox
+suchen.mobile.de##a#motorTalkForumLink
+suchen.mobile.de##div.smava-integration
+suchen.mobile.de##div.private-selling-sidebar-box
+suchen.mobile.de##section:has-text(/weitere fahrzeuge dieses/i)
+suchen.mobile.de##article:has-text(/hnliche fahrzeuge/i)
+suchen.mobile.de##section:has-text(/gesponsert/i)
+suchen.mobile.de##article:has-text(/was kostet die kfz-versicherung/i)
+suchen.mobile.de##hr.topresult ~ div
+www.mobile.de##.car-valuation-box
+
+www.autoscout24.de##div.cl-list-element-chefplatz
+
+www.justetf.com##.wAd
+www.justetf.com##div.bsAd
+
+www.ariva.de###siteTeaserLayer
+
+www.heise.de##.topnavigation__content
+www.heise.de##.a-layout__sidebar
+www.heise.de###bottum-up > div.a-layout__container:nth-of-type(1) > .a-layout__item
+www.heise.de##.archive__header.header-nav
+www.heise.de##.articlebox
+www.heise.de##.article-footer
+www.heise.de##[href="#bottum-up"]
+www.heise.de##div.a-u-no-margin-bottom
+www.heise.de##.plus_buehne
+www.heise.de##.channel_ho
+www.heise.de##.article-sidebar
+www.heise.de##li:has(.heiseplus-logo-small)
+www.heise.de##li:has-text(/.net|Mac & i|c't Fotografie|heise-angebot|techstage|microsoft|SAP|Adobe|amazon|disney|netflix|kurz informiert|apple|facebook|playstation|trump|gewinn/i)
+www.heise.de##li footer
+www.heise.de##header:has-text(/top-news/i)
+www.heise.de##li:has(.heiseplus-logo-small)
+www.heise.de##.header
+
+news.ycombinator.com##table.itemlist tr:has-text(/hiring/i)
+news.ycombinator.com##table.itemlist tr:has-text(/hiring/i) + tr
+news.ycombinator.com##table.itemlist tr:has-text(/wsj.com|economist/i)
+news.ycombinator.com##table.itemlist tr:has-text(/wsj.com|economist/i) + tr
+
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
