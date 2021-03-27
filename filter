@@ -50,28 +50,6 @@ www.medium.com##.overlay
 
 www.reddit.com###block-homepage
 
-suchen.mobile.de###financing-offer-fallback-form-vip-box
-suchen.mobile.de##aside > article
-suchen.mobile.de###financing-offer-fallback-form-vip-end-of-page
-suchen.mobile.de##footer
-suchen.mobile.de##article:has-text(/in deiner region/i)
-suchen.mobile.de##h3:has-text(/inserate/i)
-suchen.mobile.de##h3:has-text(/inserate/i) + div
-suchen.mobile.de##div#motorTalkPromoBox
-suchen.mobile.de##div#ratgeberAutokauf
-suchen.mobile.de##div.force-medium
-suchen.mobile.de##div.similarAdsVip
-suchen.mobile.de##div.ebaykBox
-suchen.mobile.de##a#motorTalkForumLink
-suchen.mobile.de##div.smava-integration
-suchen.mobile.de##div.private-selling-sidebar-box
-suchen.mobile.de##section:has-text(/weitere fahrzeuge dieses/i)
-suchen.mobile.de##article:has-text(/hnliche fahrzeuge/i)
-suchen.mobile.de##section:has-text(/gesponsert/i)
-suchen.mobile.de##article:has-text(/was kostet die kfz-versicherung/i)
-suchen.mobile.de##hr.topresult ~ div
-www.mobile.de##.car-valuation-box
-
 www.autoscout24.de##div.cl-list-element-chefplatz
 
 www.justetf.com##.wAd
