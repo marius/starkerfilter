@@ -68,7 +68,7 @@ www.heise.de##div.a-u-no-margin-bottom
 www.heise.de##.plus_buehne
 www.heise.de##.channel_ho
 www.heise.de##.article-sidebar
-www.heise.de##li:has(.heiseplus-logo-small)
+www.heise.de##li:has(.a-article-meta__heiseplus-logo)
 www.heise.de##li:has-text(/.net|Mac & i|c't Fotografie|heise-angebot|techstage|microsoft|SAP|Adobe|amazon|disney|netflix|kurz informiert|apple|facebook|playstation|trump|gewinn/i)
 www.heise.de##li footer
 www.heise.de##header:has-text(/top-news/i)
