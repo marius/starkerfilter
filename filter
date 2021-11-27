@@ -37,6 +37,7 @@ www.spiegel.de##div[data-area=news-section] article:has(span[data-contains-flags
 www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=sponpaid])
 www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=hbmpaid])
 www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=mmopaid])
+www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=Mmplus-paid])
 www.spiegel.de##div[data-area=news-section] article:has(span[data-contains-flags=Spaudio-paid])
 www.spiegel.de##section article:has(span[data-contains-flags=Spaudio-paid])
 www.spiegel.de##div[data-block-el=articleTeaser] article:has-text(/anzeige/i)
