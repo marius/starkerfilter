@@ -48,6 +48,7 @@ www.spiegel.de##div[data-area=news-section] article:has(span[data-contains-flags
 www.spiegel.de##div[data-block-el=articleTeaser] article:has(span[data-contains-flags=Spplus-paid])
 www.spiegel.de##div.block:has(span[data-contains-flags=sponpaid])
 www.spiegel.de##div.block:has(span[data-contains-flags=Spplus-paid])
+www.spiegel.de##div[data-area=article_teaser] article:has(span[data-contains-flags=Spplus-paid])
 
 www.medium.com##.overlay
 
