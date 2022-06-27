@@ -16,6 +16,11 @@ www.golem.de##.activity
 www.golem.de##.promos
 www.golem.de##div.g6.g:nth-of-type(3)
 www.golem.de##.social-tools--inverted.social-tools
+www.golem.de##.li-hb-jobs
+www.golem.de##.li-hb-phits
+www.golem.de##.li-hb-pc
+www.golem.de##.li-hb-academy
+www.golem.de##.subscribe-newsletter:upward(1)
 
 stackoverflow.com###noscript-warning
 serverfault.com###noscript-warning
