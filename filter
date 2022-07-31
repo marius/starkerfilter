@@ -22,6 +22,7 @@ www.golem.de##.li-hb-pc
 www.golem.de##.li-hb-academy
 www.golem.de##.subscribe-newsletter:upward(1)
 www.golem.de##li:has(h3.golemplus)
+www.golem.de##li.golemplus
 
 stackoverflow.com###noscript-warning
 serverfault.com###noscript-warning
